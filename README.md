@@ -3,6 +3,8 @@
 ## Overview
 This project is a step-by-step guide to building a simple, command-line firewall application in Rust. It allows users to define rules for accepting or dropping incoming network packets based on specified criteria.
 
+You can read the full article with the step-by-step guide here:  [Implementing a Firewall in Rust](https://medium.com/@luishrsoares/implementing-a-firewall-in-rust-12b9f04228f5).
+
 ## Prerequisites
 Before you begin, ensure you have Rust installed on your system. Follow the [Rust Installation Guide](https://www.rust-lang.org/tools/install) for guidance.
 
